@@ -153,7 +153,8 @@ while True:
     print("=" * 40)
     retry = input("Wanna Try Again?\n" "Yes or No\n").lower()
     if retry == "yes":
+        print(f"That's the spirit {user_name}\n" + "Lets gooooo")
         continue
     else:
-        break
         print(f"\nThank you for playing the STEM Quiz, {user_name}!")
+        break
