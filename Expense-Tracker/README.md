@@ -33,16 +33,6 @@ fundamentals, data management, user input handling, functions, file handling, an
 - Problem Solving
 - Debugging
 
-# Features
-- Expense recording system completed
-- Expense category system implemented
-- Expense amount recording implemented
-- Expense description system implemented
-- Expense viewing system implemented
-- Total expense calculation implemented
-- Basic data management implemented
-- Terminal-based interface completed
-
 # Future Improvements
 - Input validation
 - Edit expense records
