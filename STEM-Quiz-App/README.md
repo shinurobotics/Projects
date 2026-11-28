@@ -18,6 +18,9 @@ This project was created to strengthen my understanding of Python fundamentals, 
 - Performance evaluation system
 - Completion message
 - Randomized questions
+- Difficulty levels
+- Multiple quiz categories
+- Timer system
 
 # Quiz Topics
 The current version includes questions from:
@@ -60,9 +63,6 @@ The current version includes questions from:
 | 0-2 / 5 | Try Again |
 
 # Future Improvements
-- Difficulty levels
-- Multiple quiz categories
-- Timer system
 - High-score tracking
 - Question database support
 - Graphical User Interface (GUI)
