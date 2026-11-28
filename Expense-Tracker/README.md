@@ -17,6 +17,11 @@ fundamentals, data management, user input handling, functions, file handling, an
 - Categorise expenses
 - User input handling
 - Terminal-based interface
+- Input validation
+- Edit expense records
+- Delete expense records
+- Search expenses by category
+- Monthly expense summaries
 
 # Skills Demonstrated
 - Python Fundamentals
@@ -34,11 +39,6 @@ fundamentals, data management, user input handling, functions, file handling, an
 - Debugging
 
 # Future Improvements
-- Input validation
-- Edit expense records
-- Delete expense records
-- Search expenses by category
-- Monthly expense summaries
 - Category-based spending analysis
 - Budget tracking system
 - Data visualisation
